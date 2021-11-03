@@ -1,4 +1,4 @@
-const { User } = require("../models");
+const { User } = require("../server/models");
 
 const userData = [
   {
